@@ -12,9 +12,9 @@ jobs:
   test-and-build:
     runs-on: ubuntu-latest
 
-    defaults:
+    ddefaults:
       run:
-        working-directory: 1_DevOpsBasico/pipeline
+        working-directory: 1_DevOpsBasico/pipelinel
 
     steps:
       - name: Clonar repositório
