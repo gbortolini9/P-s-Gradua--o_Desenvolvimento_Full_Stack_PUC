@@ -1,0 +1,12 @@
+meu-projeto/
+├─ .github/
+│  └─ workflows/
+│     └─ pipeline.yml
+├─ test/
+│  └─ app.test.js
+├─ app.js
+├─ package.json
+├─ package-lock.json
+├─ Dockerfile
+├─ .dockerignore
+└─ .gitignore

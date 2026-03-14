@@ -1,0 +1,13 @@
+{
+    "name": "meu-projeto",
+    "version": "1.0.0",
+    "description": "Projeto com pipeline GitHub Actions",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "mocha"
+    },
+    "devDependencies": {
+      "mocha": "^10.2.0"
+    }
+  }
